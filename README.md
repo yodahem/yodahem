@@ -1,14 +1,16 @@
-# 👋 Hi, I’m **Yodahe Maaza**
+# Hi, I’m **Yodahe Maaza** 👋
 
-![Profile Picture]([YOUR-PROFILE-IMAGE-LINK](https://github.com/yodahem.png))
+<p align="center">
+  <img src="https://github.com/yodahem.png" width="160" style="border-radius: 50%;">
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](YOUR-LINKEDIN-URL)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:YOUR@EMAIL.COM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/yodahe-maaza-579875247)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:yodahemaaza@gmail.com)
 
 ---
 
 ## About Me
-I’m a **Computer Science student at Cornell University** with experience in **data science, machine learning, and software engineering**.  
+I’m an **Operations Research Engineering student at Cornell University** with experience in **data science, machine learning, and software engineering**.  
 Through roles at **Microsoft**, **Fred Hutch Cancer Center**, and Cornell’s **AI Studio** + **INFO 2950**, I’ve built strong skills in data analysis, modeling, visualization, and human-centered problem solving.
 
 My work focuses on the intersection of **technology, equity, and social impact**—especially improving healthcare access and understanding vulnerability across communities.
